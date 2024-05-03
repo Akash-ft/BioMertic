@@ -1,16 +1,5 @@
 # bio_metrics_v2
 
-A new Flutter project.
+BioMetric module offers a comprehensive solution for mobile applications, allowing users to access all available biometric authentication methods. The module intelligently checks the biometric permissions based on the type of biometric data available on the device. This ensures that only authorized users can access the application using biometric authentication. By integrating our module, developers can easily implement biometric authentication features, enhancing the security and user experience of their mobile applications.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
